@@ -47,3 +47,4 @@ card.prepend(p);
 // 8. Удалите тег h6 на странице.
 
 document.querySelector("h6").remove();
+
